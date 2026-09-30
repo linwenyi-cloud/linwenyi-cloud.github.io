@@ -1,0 +1,158 @@
+cv:
+  name: Wenyi (Kellin) Lin
+  label: PhD Student, Industrial and Systems Engineering
+  email: linwenyi@usc.edu
+  location: Los Angeles, CA
+  image: ""
+  summary: PhD student at the University of Southern California working on AI-enabled healthcare decision modeling and cost-effectiveness analysis.
+
+  social_networks:
+    - network: GitHub
+      username: linwenyi-cloud
+
+  sections:
+    Education:
+      - institution: University of Southern California
+        location: Los Angeles, CA, USA
+        url: https://www.usc.edu/
+        area: Industrial and Systems Engineering
+        studyType: PhD
+        start_date: 2025-08
+        end_date: present
+        highlights:
+          - "Advisor: Dr. Shinyi Wu"
+          - "Research focus: AI-enabled healthcare decision modeling; cost-effectiveness analysis using decision tree–Markov models; deterministic and probabilistic sensitivity analysis."
+
+      - institution: University of Pittsburgh
+        location: Pittsburgh, PA, USA
+        url: https://www.pitt.edu/
+        area: Industrial Engineering (Minor in Mathematics)
+        studyType: B.E.
+        start_date: 2024-08
+        end_date: 2025-05
+        score: "GPA: 3.86/4.0"
+        highlights:
+          - University Scholar (top 2% of IE department, 2024–2025)
+
+      - institution: Sichuan University–Pittsburgh Institute (SCUPI)
+        location: Chengdu, China
+        area: Industrial Engineering
+        studyType: B.E.
+        start_date: 2021-09
+        end_date: 2024-06
+        score: "GPA: 3.95/4.0"
+        highlights:
+          - National Scholarship (2021–2022, 2022–2023, 2023–2024)
+
+    Publications:
+      - title: "Bidirectional Transitions of Sarcopenia, Obesity, and Sarcopenic Obesity: Transitional Patterns in Older Adults from the CHARLS Study"
+        authors:
+          - Xu FS, Wenyi Lin, Yue LT, Yue JR, Dong BR, Ge N, Li K, Liu XL
+        publisher: Chinese Medical Journal (Correspondence), 139:299–301
+        releaseDate: 2026
+        url: https://doi.org/10.1097/CM9.0000000000003925
+
+    Research Experience:
+      - company: University of Southern California
+        position: Directed Research — Cost-Effectiveness of AI-Based Glaucoma Screening
+        location: Los Angeles, CA
+        start_date: 2025-08
+        end_date: present
+        summary: With Dr. Shinyi Wu (Suzanne Dworak-Peck School of Social Work)
+        highlights:
+          - Developed a hybrid decision tree–Markov model simulating long-term progression across glaucoma severity states, parameterized with published epidemiological data and real-world costs.
+          - Implemented deterministic and probabilistic (Monte Carlo) sensitivity analyses in Python to estimate costs, QALYs, and ICERs.
+          - Preliminary results suggest AI-based screening is cost-effective (ICER ≈ $13,000/QALY).
+
+      - company: West China Biomedical Big Data Lab
+        position: Research Assistant — Cohort Study Project
+        location: Chengdu, China
+        start_date: 2023-09
+        end_date: 2024-12
+        summary: With Dr. Fashu Xu and Dr. Xiaolei Liu
+        highlights:
+          - Processed 16,000+ annual CHARLS samples (2011–2015) in Python; fit continuous-time Markov models in R for 1-, 2-, and 4-year transition probabilities.
+          - Developed a covariate-adjusted Markov model to assess socio-demographic effects (HRs and 95% CIs).
+          - Contributed to a Chinese Medical Journal publication (data processing and methods).
+
+      - company: Sichuan University–Pittsburgh Institute
+        position: Group Leader — System Optimization Program
+        location: Chengdu, China
+        start_date: 2022-09
+        end_date: 2023-05
+        summary: With Dr. Don Liang
+        highlights:
+          - Optimized a dehumidification coating via multi-objective optimization, achieving a 2.5× improvement over conventional dehumidifiers.
+          - Led the patent application for a TPMS-structure dehumidification heat exchanger.
+          - Chinese National Student Innovation Project Excellence Award.
+
+    Work Experience:
+      - company: BuilderX Robotics
+        position: Computer Vision Engineer
+        location: Beijing, China
+        start_date: 2024-05
+        end_date: 2024-07
+        highlights:
+          - Improved detection speed 1.5× with a YOLOv5 + SORT tracking pipeline (C++, Python, ROS).
+          - Helped deliver the project one week ahead of schedule.
+
+      - company: Sichuan University–Pittsburgh Institute
+        position: Teaching Assistant (Calculus; Statistical Testing & Regression)
+        location: Chengdu, China
+        start_date: 2023-09
+        end_date: 2024-06
+        highlights:
+          - Led weekly recitation sessions and graded assignments with detailed feedback.
+
+    Leadership & Activities:
+      - company: Pitt Society of Women Engineers
+        position: Member & Volunteer
+        location: Pittsburgh, PA
+        start_date: 2024-08
+        end_date: 2025-05
+        highlights:
+          - Taught weekly Python coding lessons for middle school students.
+
+      - company: SCUPI Class Council
+        position: President
+        location: Chengdu, China
+        start_date: 2023-09
+        end_date: 2024-06
+
+      - company: SCUPI Technical and Science Association
+        position: Department Head
+        location: Chengdu, China
+        start_date: 2022-09
+        end_date: 2023-06
+
+    Awards:
+      - title: University Scholar, University of Pittsburgh
+        date: 2025
+      - title: National Scholarship (three consecutive years)
+        date: 2021–2024
+      - title: Student of the Year (Rank 1 in overall GPA)
+        date: 2023–2024
+      - title: Millet Scholarship (Top 20, Sichuan University)
+        date: 2022–2023
+      - title: Academic Star (Rank 1 in major GPA)
+        date: 2022–2023
+      - title: National Third Prize, Chinese College Students Embedded Chip and System Design Competition
+        date: 2023-08
+      - title: Third Prize, Chinese Mathematical Modeling Contest (Sichuan Province)
+        date: 2022-10
+      - title: University Outstanding Student Leader
+        date: 2021–2023
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, R, SQL, SPSS, C, MATLAB"
+      - name: Methods
+        icon: fa-solid fa-chart-line
+        keywords: "Cost-effectiveness analysis, Markov models, decision trees, sensitivity analysis, Monte Carlo simulation, machine learning"
+
+    Languages:
+      - name: Chinese
+        summary: Native speaker
+      - name: English
+        summary: "Fluent (IELTS 7.0)"
